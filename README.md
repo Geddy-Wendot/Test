@@ -53,3 +53,10 @@ This is what i managed to cover today
 ### 9.**String formatting**
 -converting a string to another data type or vice verse
 -f-string is recommended
+
+
+## Python basics - Day 2 
+### Projects
+- Student management system
+- expence tracker
+- simple calculator(included little knowledge from `if` statements)
