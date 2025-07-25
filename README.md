@@ -60,3 +60,10 @@ This is what i managed to cover today
 - Student management system
 - expence tracker
 - simple calculator(included little knowledge from `if` statements)
+
+
+## Decision Making - Day 1
+### `if`...statements
+### Projects
+- Simple grading system
+- Simple ATM
