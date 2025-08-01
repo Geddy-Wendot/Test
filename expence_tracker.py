@@ -24,10 +24,10 @@ if remove_item.lower() == "yes":
         print(f"Item '{item_to_remove}' not found in the record.")
 
 # total price calculation
-total_price = sum(record.values()) 
+total_price = sum(record.values())
 print("Total price of all items:", total_price)  # Displaying the total price
 
 #final record
-print(f"Final record of items and prices:")
+print("Final record of items and prices:")
 for item, price in record.items():
     print(f"{item}: ${price:.2f}")  # Displaying each item and its price
